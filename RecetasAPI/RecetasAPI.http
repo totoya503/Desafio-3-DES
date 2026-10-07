@@ -1,0 +1,23 @@
+@host = http://localhost:5080
+
+### 1. Login como Administrador (deja una cookie)
+POST {{host}}/api/auth/login?useCookies=true&useSessionCookies=true
+Content-Type: application/json
+
+{
+  "email": "admin@recetas.com",
+  "password": "Admin123$"
+}
+
+### 2. Ver recetas
+GET {{host}}/api/Recetas
+
+### 3. Crear receta (solo Administrador)
+POST {{host}}/api/Recetas
+Content-Type: application/json
+
+{
+  "nombre": "Huevos revueltos",
+  "descripcion": "Desayuno rápido",
+  "tiempoPreparacion": 10
+}

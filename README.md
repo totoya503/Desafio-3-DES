@@ -2,6 +2,15 @@
 
 API en ASP.NET Core 9.0 con Entity Framework Core (SQL Server), ASP.NET Core Identity (roles **Administrador** y **Usuario**) y reportes con SQL Server Reporting Services (SSRS).
 
+
+# Integrantes:
+
+Angel Eduardo moreno Escobar  ME220001
+Ricardo Iván Escobar Umaña    EU220488
+Rafael Adolfo Ruiz Garcia     RG210380
+
+
+
 ---
 
 ## Estructura del proyecto

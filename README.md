@@ -5,10 +5,9 @@ API en ASP.NET Core 9.0 con Entity Framework Core (SQL Server), ASP.NET Core Ide
 
 # Integrantes:
 
-Angel Eduardo moreno Escobar  ME220001
-Ricardo Iván Escobar Umaña    EU220488
-Rafael Adolfo Ruiz Garcia     RG210380
-
+- Angel Eduardo moreno Escobar  ME220001
+- Ricardo Iván Escobar Umaña    EU220488
+- Rafael Adolfo Ruiz Garcia     RG210380
 
 
 ---
